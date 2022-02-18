@@ -113,7 +113,7 @@
 }
 
 .mfp-preloader a:hover {
-  color: #1A1A1A;
+  color: #000;
 }
 
 .mfp-s-ready .mfp-preloader {
@@ -155,7 +155,7 @@ button::-moz-focus-inner {
   opacity: 0.65;
   filter: alpha(opacity=65);
   padding: 0 0 18px 10px;
-  color: #1A1A1A;
+  color: #000;
   font-style: normal;
   font-size: 28px;
   font-family: Arial, Baskerville, monospace;
@@ -175,7 +175,7 @@ button::-moz-focus-inner {
 }
 
 .mfp-image-holder .mfp-close, .mfp-iframe-holder .mfp-close {
-  color: #1A1A1A;
+  color: #000;
   right: -6px;
   text-align: right;
   padding-right: 6px;
@@ -244,7 +244,7 @@ button::-moz-focus-inner {
 }
 
 .mfp-arrow-left:after, .mfp-arrow-left .mfp-a {
-  border-right: 17px solid #1A1A1A;
+  border-right: 17px solid #000;
   margin-left: 31px;
 }
 
@@ -258,7 +258,7 @@ button::-moz-focus-inner {
 }
 
 .mfp-arrow-right:after, .mfp-arrow-right .mfp-a {
-  border-left: 17px solid #1A1A1A;
+  border-left: 17px solid #000;
   margin-left: 39px;
 }
 

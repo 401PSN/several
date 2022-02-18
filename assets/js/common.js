@@ -1,5 +1,5 @@
 /**
-*	Aster - Portfolio Agency Template (HTML)
+*	Several - We Craft Digital Design (HTML)
 *	Version: 1.0
 *	Author: beshleyua
 *	Author URL: http://themeforest.net/user/beshleyua
